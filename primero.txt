@@ -2,4 +2,6 @@ buenas tardes
 
 este es un ensayo de git hub
 
-Estamos aprendiendo git ahora mismo y no es tan complicado
+Estamos aprendiendo git ahora mismo
+
+Ya lo estamos comprendiendo, vamos a aprenderlo

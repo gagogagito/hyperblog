@@ -1,0 +1,5 @@
+buenas tardes
+
+este es un ensayo de git hub
+
+Estamos aprendiendo git ahora mismo y no es tan complicado

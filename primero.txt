@@ -5,3 +5,6 @@ este es un ensayo de git hub
 Estamos aprendiendo git ahora mismo
 
 Ya lo estamos comprendiendo, vamos a aprenderlo
+
+git lo está aprendiendo gracias a platzi, super buena herramienta,
+se recomienda un monton
